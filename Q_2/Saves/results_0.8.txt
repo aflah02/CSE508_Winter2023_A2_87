@@ -1,0 +1,26 @@
+Accuracy: 0.9765100671140939
+business
+precision 0.9696969696969697
+recall 0.9552238805970149
+f1-score 0.9624060150375939
+
+entertainment
+precision 1.0
+recall 0.9622641509433962
+f1-score 0.9807692307692307
+
+politics
+precision 0.9565217391304348
+recall 0.9565217391304348
+f1-score 0.9565217391304348
+
+sport
+precision 1.0
+recall 1.0
+f1-score 1.0
+
+tech
+precision 0.9508196721311475
+recall 1.0
+f1-score 0.9747899159663865
+
